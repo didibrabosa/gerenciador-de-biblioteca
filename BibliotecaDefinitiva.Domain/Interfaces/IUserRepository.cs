@@ -1,6 +1,6 @@
 using BibliotecaDefinitiva.Domain.Entities;
 
-namespace BibliotecaDefinitiva.Domain.Entities
+namespace BibliotecaDefinitiva.Domain.Interfaces
 {
     public interface IUserRepository 
     {

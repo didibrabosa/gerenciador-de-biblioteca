@@ -1,5 +1,6 @@
 using BibliotecaDefinitiva.Domain.Entities;
 using BibliotecaDefinitiva.Domain.Interfaces;
+using BibliotecaDefinitiva.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -17,39 +18,67 @@ namespace BibliotecaDefinitiva.Infrastructure.Repositories
 
         public async Task<IEnumerable<User>> GetAllUsers()
         {
-            var users = _context.Users;
-            if (users == null)
+            return await _context.Users.ToListAsync();
+        }
+
+        public async Task<User> GetUserById(int id)
+        {
+            var user = await _context.Users
+            .FirstOrDefaultAsync(u => u.Id == id);
+            
+            if (user == null)
             {
-                return new List<User>();
+                throw new ArgumentException("Usuário não encontrado.");
             }
-            return await users.ToListAsync();
+
+            return user;
         }
 
-        public async Task<User?> GetUsersByIdAsync(int id)
+        public async Task<User> AddUser(User user)
         {
-            return await _context.Users.FirstOrDefaultAsync(u => u.Id == id);
-        }
+            var existingUser = await _context.Users
+            .FirstOrDefaultAsync(u => u.Email == user.Email || u.Email == user.Email);
 
-        public async Task AddUsersAsync(User user)
-        {
+            if (existingUser!= null)
+            {
+                return existingUser;
+            }
+            
             await _context.Users.AddAsync(user);
             await _context.SaveChangesAsync();
+
+            return user;
         }
 
-        public async Task UpdateUsersAsync(User user)
+        public async Task UpdateUser(User user)
         {
+            if (user == null)
+            {
+                throw new ArgumentException(nameof(user), "O Usuário não pode ser nulo.");
+            }
+
+            var existingUser = await _context.Users.FindAsync(user.Id);
+            if (existingUser == null)
+            {
+                throw new ArgumentException("Usuário não encontrado.");
+            }
+
             _context.Users.Update(user);
             await _context.SaveChangesAsync();
         }
 
-        public async Task DeleteUsersAsync(int id)
+        public async Task DeleteUser(int id)
         {
-            var user = await GetUsersByIdAsync(id);
-            if (user != null)
+            var user = await _context.Users.FindAsync(id);
+
+            if (user == null)
             {
-                _context.Users.Remove(user);
-                await _context.SaveChangesAsync();
+                throw new ArgumentException("Usuário não encontrado.");
             }
+
+            _context.Users.Remove(user);
+            await _context.SaveChangesAsync();
+            
         }
     }
 }

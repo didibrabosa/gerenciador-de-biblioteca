@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BibliotecaDefinitiva.Application/1.0.0": {
+        "dependencies": {
+          "BibliotecaDefinitiva.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BibliotecaDefinitiva.Application.dll": {}
+        }
+      },
+      "BibliotecaDefinitiva.Domain/1.0.0": {
+        "runtime": {
+          "BibliotecaDefinitiva.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaDefinitiva.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDefinitiva.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

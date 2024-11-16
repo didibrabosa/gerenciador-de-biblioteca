@@ -1,0 +1,11 @@
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/bin/Debug/net8.0/BibliotecaDefinitiva.Domain.deps.json
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/bin/Debug/net8.0/BibliotecaDefinitiva.Domain.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/bin/Debug/net8.0/BibliotecaDefinitiva.Domain.pdb
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/obj/Debug/net8.0/BibliotecaDefinitiva.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/obj/Debug/net8.0/BibliotecaDefinitiva.Domain.AssemblyInfoInputs.cache
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/obj/Debug/net8.0/BibliotecaDefinitiva.Domain.AssemblyInfo.cs
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/obj/Debug/net8.0/BibliotecaDefinitiva.Domain.csproj.CoreCompileInputs.cache
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/obj/Debug/net8.0/BibliotecaDefinitiva.Domain.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/obj/Debug/net8.0/refint/BibliotecaDefinitiva.Domain.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/obj/Debug/net8.0/BibliotecaDefinitiva.Domain.pdb
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Domain/obj/Debug/net8.0/ref/BibliotecaDefinitiva.Domain.dll

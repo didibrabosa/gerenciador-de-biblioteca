@@ -1,0 +1,15 @@
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/bin/Debug/net8.0/BibliotecaDefinitiva.Application.deps.json
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/bin/Debug/net8.0/BibliotecaDefinitiva.Application.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/bin/Debug/net8.0/BibliotecaDefinitiva.Application.pdb
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/bin/Debug/net8.0/BibliotecaDefinitiva.Domain.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/bin/Debug/net8.0/BibliotecaDefinitiva.Domain.pdb
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/BibliotecaDefinitiva.Application.csproj.AssemblyReference.cache
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/BibliotecaDefinitiva.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/BibliotecaDefinitiva.Application.AssemblyInfoInputs.cache
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/BibliotecaDefinitiva.Application.AssemblyInfo.cs
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/BibliotecaDefinitiva.Application.csproj.CoreCompileInputs.cache
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/BibliotecaDefinitiva.Application.csproj.CopyComplete
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/BibliotecaDefinitiva.Application.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/refint/BibliotecaDefinitiva.Application.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/BibliotecaDefinitiva.Application.pdb
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Application/obj/Debug/net8.0/ref/BibliotecaDefinitiva.Application.dll

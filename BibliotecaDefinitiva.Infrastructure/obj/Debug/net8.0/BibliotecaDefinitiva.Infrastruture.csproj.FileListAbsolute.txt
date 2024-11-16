@@ -1,0 +1,15 @@
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/bin/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.deps.json
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/bin/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/bin/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.pdb
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/bin/Debug/net8.0/BibliotecaDefinitiva.Domain.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/bin/Debug/net8.0/BibliotecaDefinitiva.Domain.pdb
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.csproj.AssemblyReference.cache
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.AssemblyInfoInputs.cache
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.AssemblyInfo.cs
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.csproj.CoreCompileInputs.cache
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.csproj.CopyComplete
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/refint/BibliotecaDefinitiva.Infrastruture.dll
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/BibliotecaDefinitiva.Infrastruture.pdb
+/home/diego/Estudo/Biblioteca/BibliotecaDefinitiva/BibliotecaDefinitiva.Infrastructure/obj/Debug/net8.0/ref/BibliotecaDefinitiva.Infrastruture.dll

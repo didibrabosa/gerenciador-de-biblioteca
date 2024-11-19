@@ -13,10 +13,10 @@ namespace BibliotecaDefinitiva.Infrastructure.Repositories
 
         public UserRepository(ApplicationDbContext context)
         {
-            _context = context;
+            _context = context; 
         }
 
-        public async Task<IEnumerable<User>> GetAllUsers()
+        public async Task<IEnumerable<User>> GetAllUsers() 
         {
             return await _context.Users.ToListAsync();
         }

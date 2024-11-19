@@ -4,7 +4,7 @@ using BibliotecaDefinitiva.Application.Services;
 
 namespace BibliotecaDefinitiva.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[[controller]]")]
     [ApiController]
     public class UsersController : ControllerBase
     {
@@ -27,7 +27,7 @@ namespace BibliotecaDefinitiva.Api.Controllers
             return CreatedAtAction(nameof(GetById), new { id = result.Id }, result);
         }
 
-        [HttpPut("[id]")]
+        [HttpPut("[[id]]")]
         public async Task<IActionResult> Update(int id, [FromBody] User user)
         {
             if (id != user.Id) return BadRequest ();
@@ -35,7 +35,7 @@ namespace BibliotecaDefinitiva.Api.Controllers
             return NoContent();
         }
 
-        [HttpDelete("[id]")]
+        [HttpDelete("[[id]]")]
         public async Task<IActionResult> Delete(int id)
         {
             await _userService.DeleteUser(id);
